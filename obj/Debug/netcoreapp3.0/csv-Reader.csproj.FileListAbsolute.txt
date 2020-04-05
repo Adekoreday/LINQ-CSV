@@ -1,0 +1,11 @@
+C:\Users\adekorede\Desktop\csv-Reader\csv-Reader\obj\Debug\netcoreapp3.0\csv-Reader.csprojAssemblyReference.cache
+C:\Users\adekorede\Desktop\csv-Reader\csv-Reader\obj\Debug\netcoreapp3.0\csv-Reader.AssemblyInfoInputs.cache
+C:\Users\adekorede\Desktop\csv-Reader\csv-Reader\obj\Debug\netcoreapp3.0\csv-Reader.AssemblyInfo.cs
+C:\Users\adekorede\Desktop\csv-Reader\csv-Reader\bin\Debug\netcoreapp3.0\csv-Reader.exe
+C:\Users\adekorede\Desktop\csv-Reader\csv-Reader\bin\Debug\netcoreapp3.0\csv-Reader.deps.json
+C:\Users\adekorede\Desktop\csv-Reader\csv-Reader\bin\Debug\netcoreapp3.0\csv-Reader.runtimeconfig.json
+C:\Users\adekorede\Desktop\csv-Reader\csv-Reader\bin\Debug\netcoreapp3.0\csv-Reader.runtimeconfig.dev.json
+C:\Users\adekorede\Desktop\csv-Reader\csv-Reader\bin\Debug\netcoreapp3.0\csv-Reader.dll
+C:\Users\adekorede\Desktop\csv-Reader\csv-Reader\bin\Debug\netcoreapp3.0\csv-Reader.pdb
+C:\Users\adekorede\Desktop\csv-Reader\csv-Reader\obj\Debug\netcoreapp3.0\csv-Reader.dll
+C:\Users\adekorede\Desktop\csv-Reader\csv-Reader\obj\Debug\netcoreapp3.0\csv-Reader.pdb
